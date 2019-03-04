@@ -44,7 +44,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## simple project screen
-> origin
+origin
 ![Github](https://github.com/ksy90604/react-simple-cart/blob/master/screen.PNG)
->click
+
+click
 ![Github](https://github.com/ksy90604/react-simple-cart/blob/master/click.PNG)
