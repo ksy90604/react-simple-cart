@@ -42,3 +42,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## simple project screen
+> origin
+![Github](https://github.com/ksy90604/react-simple-cart/blob/master/screen.PNG)
+>click
+![Github](https://github.com/ksy90604/react-simple-cart/blob/master/click.PNG)
